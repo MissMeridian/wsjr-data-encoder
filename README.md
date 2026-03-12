@@ -1,3 +1,5 @@
+⚠ This is the experimental branch.
+
 # The Weather Star Data Encoder
 This is the data provider for [The Weather STAR Revamped](https://github.com/Jessecar96/wsjr-modulator) modulator hardware. This project is still a work in progress.
 
